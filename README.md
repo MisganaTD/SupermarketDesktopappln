@@ -4,14 +4,14 @@ This system is desktop application developed using VB.NET and SQL.  It aimed to 
 *   **System Administrator
     * Manage the entire application
 *   **Inventory Manager
-* Manage stocks  
+    * Manage stocks  
 *   **Seller
-* Sale the stocks 
+     * Sale the stocks 
 *   **Accountant
-* Cashier collect income
-* Print invoice
+    * Cashier collect income
+    * Print invoice
 *   **Report
-* Desired report should be generated4
+    * Desired report should be generated4
 
 ## Technologies Used
 *   **Programming Language:**  VB.NET
