@@ -1,0 +1,71 @@
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\Pharmacy_mgmtsys.exe.config
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\Pharmacy_mgmtsys.exe
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\Pharmacy_mgmtsys.pdb
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\Pharmacy_mgmtsys.xml
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.vbproj.ResolveComReference.cache
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.ChangePassword.resources
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.frmAddCosmeticsandothersstock.resources
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.frmAddMedicine.resources
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.frmbill.resources
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.frmCashier.resources
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.frmReportStock.resources
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.frmResetEmppassword.resources
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.frmSales.resources
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.Loading.resources
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.Login.resources
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.Main_Form.resources
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.Resources.resources
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.vbproj.GenerateResource.Cache
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\RdlCompile.cache
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\RdlCompile.compiled
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.exe
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.xml
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.pdb
+C:\Users\Praise Lord\documents\visual studio 2017\Projects\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\Pharmacy_mgmtsys.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\Pharmacy_mgmtsys.exe
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\Pharmacy_mgmtsys.pdb
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\Pharmacy_mgmtsys.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.ChangePassword.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.frmAddCosmeticsandothersstock.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.frmAddMedicine.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.frmbill.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.frmCashier.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.frmReportStock.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.frmResetEmppassword.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.frmSales.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.Loading.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.Main_Form.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.vbproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy.7153B1F6.Up2Date
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.exe
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\Pharmacy_mgmtsys\Pharmacy_mgmtsys\obj\Debug\Pharmacy_mgmtsys.pdb
