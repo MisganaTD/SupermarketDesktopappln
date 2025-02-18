@@ -20,7 +20,7 @@ This system is desktop application developed using VB.NET and SQL.  It aimed to 
 ## Installation
 1.  **Prerequisites:**
     * Visual Studio 2017 or latest and SQL Server 2014 or latest installed on your system
-    * After opening the project, accordingly necessary packages software should also installed to run the application successfully 
+    * After opening the project, accordingly necessary packages software and files should also installed and edit to run the application successfully 
 2.  **Setup:**
     *   Clone the repository or download the file 
     *   Attach the SQL database 
